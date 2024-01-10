@@ -4,7 +4,7 @@
 
 This project presents a Power BI Report that illustrates a path-based approach to estimate potential costs for green hydrogen. The report combines various data sources and methodologies to provide a comprehensive analysis.
 
-[View the Power BI Report]([https://yourpowerbireportlink.com](https://app.powerbi.com/groups/9d2d7ece-0241-4862-86ba-4d5f90f38964/reports/12229dc7-baa3-4299-8b56-415f3975a8c5/ReportSection95339d77bad7a209ab6b?experience=power-bi)) _[Replace with the actual link to your Power BI report]_
+[View the Power BI Report](https://yourpowerbireportlink.com](https://app.powerbi.com/groups/9d2d7ece-0241-4862-86ba-4d5f90f38964/reports/12229dc7-baa3-4299-8b56-415f3975a8c5/ReportSection95339d77bad7a209ab6b?experience=power-bi)
 
 ## Project Setup and Data Processing
 
